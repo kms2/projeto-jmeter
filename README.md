@@ -1,3 +1,3 @@
 # projeto-jmeter
 
-README
+Leia o aquivo "Guia de instalação e uso".
